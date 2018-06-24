@@ -1,2 +1,1 @@
-# Kali_Hacker
-从码云fork过来的https://gitee.com/qytanggit/Python_Hacker，仅做记录。
+仅做记录，版权属于qyt，从码云fork过来的https://gitee.com/qytanggit/Python_Hacker 
